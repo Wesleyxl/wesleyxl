@@ -7,7 +7,7 @@
 * Moro em Guarulhos - SP
 * E as linguagens que mais estudei foram: PHP - JavaScript - C#
 * Apaixonado por Desenvolvimento, iniciei meus estudos como desenvolvedor de aplicações Web e Mobile,
-atualmente estou ingressando na área de Desenvolvimento de Games, utilizando Unity-Game-Engine e C# como a principal ferramenta e linguagem de programação.
+atualmente estou dedicando a Stack Javascript, utilizando typescript, ReactJs e NodeJs como a principal ferramenta e linguagem de meus projetos.
 
 
 ## Alguns dos cursos que ja fiz

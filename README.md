@@ -26,5 +26,5 @@ atualmente estou dedicando a Stack Javascript, utilizando typescript, ReactJs e 
 
 
 
-![Wesley Alves Barreto's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wesleyxl&show_icons=true&theme=midnight-purple)
+
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wesleyxl&layout=compact&theme=midnight-purple)

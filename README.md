@@ -1,40 +1,138 @@
+<h1 align="center">Olá, eu sou o Wesley Alves 👋</h1>
 
-## Wesley Alves
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1200&center=true&vCenter=true&width=520&lines=Engenheiro+de+Software;TypeScript+%C2%B7+React+%C2%B7+Node.js;IA+aplicada+%C3%A0+engenharia+de+software" alt="Typing SVG" />
+  </a>
+</p>
 
-### Olá! Seja bem-vindo.
+<p align="center">
+  <a href="https://www.linkedin.com/in/wesley-alves-barreto-1528b9178/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:wesley.alvesxll@gmail.com"><img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
+  <a href="https://www.wesley-alves.com"><img src="https://img.shields.io/badge/Portf%C3%B3lio-222222?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio"></a>
+</p>
 
-### Sobre
-Sou Wesley Alves, desenvolvedor apaixonado por tecnologia, residente em Guarulhos, SP. Com uma carreira que começou no desenvolvimento de aplicações web e mobile, minha principal stack atualmente é focada no ecossistema JavaScript, utilizando **TypeScript**, **React.js** e **Node.js** como pilares dos meus projetos.
+---
 
-A jornada de aprendizado constante é o que me impulsiona. Ao longo do tempo, me aprofundei em diversas linguagens e frameworks, como **PHP**, **C#**, **Python**, entre outras, mas hoje meu foco está em entregar soluções robustas e escaláveis com tecnologias JavaScript.
+## 🧑‍💻 Sobre mim
 
-Como Tech Leader, minha missão é não apenas codificar, mas também liderar e inspirar equipes a atingirem o próximo nível, cultivando boas práticas e promovendo o aprendizado contínuo.
+Sou **Engenheiro de Software** em Guarulhos, SP, com carreira construída no desenvolvimento de aplicações web e mobile. Trabalho principalmente com o ecossistema **JavaScript/TypeScript** — **React** e **Next.js** no front-end, **Node.js** e **NestJS** no back-end — entregando soluções robustas e escaláveis.
 
-### Certificações e Cursos
-Aqui estão alguns dos cursos que concluí e que contribuíram para o meu crescimento profissional:
+Meu trabalho vai além de escrever código: cuido de arquitetura, boas práticas e qualidade das entregas, sempre com foco em resolver problemas reais de forma escalável.
 
-- [Curso completo de PHP 7](https://www.udemy.com/course/curso-php-7-online/) - [Certificado](https://udemy-certificate.s3.amazonaws.com/pdf/UC-50Z2EA7E.pdf)
-- [Curso de Laravel - O Framework PHP dos Artesões da Web](https://www.udemy.com/course/curso-laravel/) - [Certificado](https://udemy-certificate.s3.amazonaws.com/pdf/UC-1CI1GE5Z.pdf)
-- [Curso Desenvolvimento de Games Completo](https://cursos.dankicode.com/curso-dev-games) - [Certificado](https://cursos.dankicode.com/certificado/curso-dev-games)
-- [React Native: Desenvolva APPs Nativas para Android e iOS](https://www.udemy.com/course/curso-react-native/) - [Certificado](https://udemy-certificate.s3.amazonaws.com/pdf/UC-0fe95ee8-4c3e-4cad-b9fd-0109d2434768.pdf)
-- [React + Redux: Fundamentos e 2 Apps do Absoluto ZERO!](https://www.udemy.com/course/react-redux-pt/) - [Certificado](https://udemy-certificate.s3.amazonaws.com/pdf/UC-9b869f05-ed08-4d92-98e0-f21e37c889be.pdf)
-- [Curso de Inglês completo - Do Nível Intermediário ao Avançado](https://www.udemy.com/course/ingles-completo-do-nivel-intermediario-ao-avancado/) - [Certificado](https://udemy-certificate.s3.amazonaws.com/pdf/UC-52302b1d-24dd-468d-96fe-230cfda03969.pdf)
+Nos últimos anos, tenho integrado **Inteligência Artificial** ao meu fluxo de trabalho e aos produtos que desenvolvo — da IA aplicada à engenharia no dia a dia até a construção de aplicações com LLMs, automações e agentes inteligentes.
 
-### Tecnologias e Ferramentas
-Estou sempre explorando novas tecnologias, frameworks e ferramentas para resolver problemas de forma eficiente e criar experiências incríveis. Aqui estão algumas das tecnologias com as quais trabalho:
+- 🔭 Atualmente: [adicione seu foco/projeto atual aqui]
+- 🌱 Explorando: aplicações com **RAG, embeddings e busca vetorial**
+- 💬 Fale comigo sobre: TypeScript, arquitetura de software e IA aplicada
 
-<div align="center">
-  <img alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img alt="React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
-  <img alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img alt="CSharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img alt="Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-  <img alt="GitHub" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
-  <img alt="Angular" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
-  <img alt="Unity" height="30" width="30" src="https://i.imgur.com/gmkTOKA.png">
-</div>
+---
 
-Estou sempre buscando novos desafios e oportunidades de crescimento. Vamos criar algo incrível juntos! 🚀
+## 🤖 Inteligência Artificial
+
+Uso IA como alavanca de produtividade e como parte das soluções que construo:
+
+- **Engenharia de software com IA** — uso o **Cursor** como editor principal, acelerando implementação, revisão e refatoração de código;
+- **Integração com LLMs** — consumo de APIs de modelos de linguagem em aplicações reais;
+- **Agentes inteligentes** — criação de agentes para automação de processos e tarefas repetitivas;
+- **RAG e busca vetorial** — aplicações com embeddings e recuperação de contexto para respostas mais precisas;
+- **Qualidade de software** — IA aplicada a testes, documentação e code review para elevar o padrão das entregas.
+
+---
+
+## 🛠️ Stack e ferramentas
+
+### Front-end
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+
+Interfaces web com foco em performance, acessibilidade e experiência do usuário. React e Next.js como base principal; Angular em projetos que já utilizam o framework.
+
+### Back-end
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+
+APIs e serviços com Node.js e NestJS, priorizando arquitetura limpa e escalabilidade. Experiência prévia com PHP, C# e Python amplia meu repertório para contextos e legados diversos.
+
+### Inteligência Artificial
+![OpenAI API](https://img.shields.io/badge/LLM%20APIs-412991?style=flat-square&logo=openai&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
+
+Integração de modelos de linguagem, agentes, automações e aplicações com RAG, embeddings e busca vetorial.
+
+### Bancos de dados
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+Modelagem e otimização em bancos relacionais (PostgreSQL, MySQL) e NoSQL (MongoDB), escolhendo a abordagem certa para cada caso de uso.
+
+### Cloud e DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Cloud](https://img.shields.io/badge/Cloud-0F1689?style=flat-square&logo=icloud&logoColor=white)
+
+Containerização com Docker, CI/CD com GitHub Actions e deploy de aplicações em ambientes de nuvem.
+
+### Testes
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Testing Library](https://img.shields.io/badge/Testing%20Library-E33332?style=flat-square&logo=testinglibrary&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-69D3A7?style=flat-square&logo=cypress&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+
+Testes unitários e de integração com Jest e Testing Library; testes end-to-end com Cypress e Playwright.
+
+### Ferramentas de desenvolvimento
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white)
+
+Versionamento com Git/GitHub e Cursor como editor principal, com IA integrada ao fluxo de trabalho. Experiência com Unity em desenvolvimento de games.
+
+---
+
+<!--
+## 🚀 Projetos em destaque
+
+| Projeto | Descrição | Tecnologias |
+| --- | --- | --- |
+| [adicione seu projeto aqui] | [breve descrição do problema resolvido e do resultado] | [stack utilizada] |
+| [adicione seu projeto aqui] | [breve descrição do problema resolvido e do resultado] | [stack utilizada] |
+
+---
+-->
+
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=wesleyxl&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleyxl&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+<details>
+  <summary>📜 Certificações e cursos</summary>
+  <br>
+
+- [Curso completo de PHP 7](https://www.udemy.com/course/curso-php-7-online/)
+- [Laravel — O Framework PHP dos Artesãos da Web](https://www.udemy.com/course/curso-laravel/)
+- [Desenvolvimento de Games Completo](https://cursos.dankicode.com/curso-dev-games)
+- [React Native: Apps Nativas para Android e iOS](https://www.udemy.com/course/curso-react-native/)
+- [React + Redux: Fundamentos e 2 Apps do Zero](https://www.udemy.com/course/react-redux-pt/)
+- [Inglês — Nível Intermediário ao Avançado](https://www.udemy.com/course/ingles-completo-do-nivel-intermediario-ao-avancado/)
+
+</details>
+
+---
+
+<p align="center">
+  Sempre em busca de novos desafios — vamos construir algo incrível juntos? 🚀
+</p>

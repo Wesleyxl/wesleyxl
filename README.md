@@ -112,8 +112,8 @@ Versionamento com Git/GitHub e Cursor como editor principal, com IA integrada ao
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=wesleyxl&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleyxl&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Wesleyxl&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
+  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Wesleyxl&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
